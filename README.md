@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rashid Mahmood
 
-<!--
-**RashidMahmood25/RashidMahmood25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of **Rust Wheel**, a mobile app for buying and selling cars and bikes in Pakistan with 0% commission, and founder of **AutoTech Pakistan**, a blog publishing practical guides on cars, bikes and technology.
 
-Here are some ideas to get you started:
+## What I'm building
+- Rust Wheel app: https://play.google.com/store/apps/details?id=com.rustinnovations.rustwheel&hl=en
+- AutoTech Pakistan: https://www.autotechpakistan.abrdns.com
+- Website: https://rustwheel.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## This GitHub
+I post one small practice project here every day while I keep learning and building in public.
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/rashid-mahmood-rustwheel
